@@ -1,0 +1,17 @@
+[book]
+authors = ["Defender", "pixiiidust"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Onboarding"
+
+[output.html]
+edit-url-template = "https://github.com/Open-Research-Institute/onboarding/edit/main/{path}"
+default-theme = "ayu"
+
+[output.html.print]
+enable = false 
+
+[output.html.fold]
+enable = true
+level = 0 
