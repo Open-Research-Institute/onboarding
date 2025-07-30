@@ -2,3 +2,4 @@
 
 This is the minimum set of skills & concepts necessary to "learn how to think".
 
+https://openresearchinstitute.org/onboarding/
