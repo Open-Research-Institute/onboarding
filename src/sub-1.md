@@ -1,3 +1,3 @@
-# Subtopic 1
+# Discovery
 
-tood
+The process of self-discovery
