@@ -40,6 +40,24 @@ Thus our aim is not only to inform, but to reorient the way we relate to knowled
 - Build discernment—the ability to detect when thinking has drifted from first principles, and to return upstream for recalibration.
 
 ---
+### Topic Sequence: Learning How to Think (Upstream to Downstream)
+
+This topic sequence is designed for onboarding readers, building formation step by step without assuming prior philosophical training. Each topic corresponds to a stage in the epistemic sequence and includes its rationale.
+
+| Order | Topic Title                        | Purpose / Key Focus                                                                 | Corresponds to Stage         |
+|-------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------------------|
+| 1     | What Must Be Presupposed?          | Introduce the idea that all knowing rests on unprovable starting points (e.g. intelligibility, unity, being) | Unconditioned Source          |
+| 2     | Is Reality Structured or Chaotic?  | Explore whether the world has inherent order and purpose—or if meaning is constructed | Intrinsic Patterning          |
+| 3     | How Do We Come to Know?            | Contrast detached knowledge (e.g. data collection) vs. relational, participatory knowing | Participatory Knowing         |
+| 4     | What is Reason For?                | Frame reason not as self-justifying but as dependent on alignment with upstream purpose | Right Discernment             |
+| 5     | Why Perception is Never Neutral    | Explain how attention, memory, and cognitive habits shape what we notice and how we interpret | Mental Formation              |
+| 6     | Where Does Science Fit?            | Situate empirical methods as valid downstream tools, dependent on prior interpretive commitments | Empirical Perception          |
+| 7     | Can Knowledge Be Trusted Without Action? | Show how knowledge must be embodied and enacted to have coherence or authority     | Wisdom-in-Action              |
+| 8     | What Shapes the Thinker?           | Discuss inherited frameworks—culture, language, tradition—as scaffolds, not shackles | Inherited Formation           |
+| 9     | How Does Thinking Go Wrong?        | Diagnose common breakdowns: epistemic drift, misordered priorities, loss of grounding | Integration (cross-level)     |
+| 10    | How Do We Return to First Principles? | Teach how to trace ideas upstream when confusion arises; introduce reflective techniques | Integration (cross-level)     |
+
+---
 
 ## How It Is Ordered
 
