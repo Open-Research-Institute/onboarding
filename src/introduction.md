@@ -47,16 +47,18 @@ This list follows a teleological and epistemic sequence. Each level presupposes 
 
 ### Epistemic Sequence
 
-| Stage                      | Description                                                                                      
-|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------
-| **Unconditioned Source**   | The foundational ground of intelligibility. Not constructed, but received. Every system of knowledge presupposes something it cannot prove. 
-| **Intrinsic Patterning**   | The world is not noise. It carries internal structure, form, and purpose—waiting to be discerned, not imposed upon. 
-| **Participatory Knowing**  | We do not come to know by detachment alone. Knowledge arises through relationship, presence, and inner transformation. 
-| **Right Discernment**      | Reason must be directed and governed by what it serves. Logic cannot supply its own telos. Clarity requires alignment. 
-| **Mental Formation**       | What we notice and how we interpret are shaped by prior habits of thought, memory, and attention. We see through how we have been formed. 
-| **Empirical Perception**   | This is the home of observation and scientific method. But empirical data is never raw—it always arrives within a structure of interpretation. 
-| **Wisdom-in-Action**       | Knowledge must be embodied and enacted to be complete. Right thinking expresses itself through a coherent life. 
-| **Inherited Formation**    | No one begins neutral. We are shaped by traditions, languages, relationships, and cultural memory. These are not limitations, but contexts for growth. 
+### Summary Table
+
+| Level   | Name                  | Description                                        | Core Assumption (Upstream Prior)                                           |
+|---------|-----------------------|----------------------------------------------------|-----------------------------------------------------------------------------|
+| 🜂 1    | **Unconditioned Source**  | The ground of all intelligibility and meaning.        | All knowing presupposes a given origin that is not derived.                 |
+| 🜁 2    | **Intrinsic Patterning**  | Reality is structured with discoverable order.        | Meaning is embedded in things, not projected onto them.                     |
+| 🜃 3    | **Participatory Knowing** | Understanding arises through engaged relationship.    | Knowledge involves presence and transformation.                             |
+| 🜄 4    | **Right Discernment**     | Reason must align with upstream orientation.          | Logic is governed by purpose and moral proportion.                          |
+| 🧠 5    | **Mental Formation**      | Perception is filtered through inner habits.          | What we notice depends on how we have been shaped.                          |
+| 📊 6    | **Empirical Perception**  | Observations are always interpreted within a frame.   | Data presupposes intelligibility, structure, and meaning.                   |
+| 💬 7    | **Wisdom-in-Action**      | Knowledge matures through lived coherence.            | Truth is not static—it must be enacted to be fulfilled.                     |
+| 🧬 8    | **Inherited Formation**   | Thought is shaped by memory, tradition, and trust.    | We interpret the world through what we have received.                       |
 
 ---
 
