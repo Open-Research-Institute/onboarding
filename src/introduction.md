@@ -46,7 +46,7 @@ This topic sequence is designed for onboarding readers, building formation step 
 
 | Order | Topic Title                        | Purpose / Key Focus                                                                 | Corresponds to Stage         |
 |-------|-------------------------------------|--------------------------------------------------------------------------------------|-------------------------------|
-| 1     | What Must Be Presupposed?          | Introduce the idea that all knowing rests on unprovable starting points (e.g. intelligibility, unity, being) | Unconditioned Source          |
+| 1     | What Must Be Presupposed?          | Introduce the idea that all knowing rests on unprovable, starting points (e.g. intelligibility, unity, being) | Unconditioned Source          |
 | 2     | Is Reality Structured or Chaotic?  | Explore whether the world has inherent order and purpose—or if meaning is constructed | Intrinsic Patterning          |
 | 3     | How Do We Come to Know?            | Contrast detached knowledge (e.g. data collection) vs. relational, participatory knowing | Participatory Knowing         |
 | 4     | What is Reason For?                | Frame reason not as self-justifying but as dependent on alignment with upstream purpose | Right Discernment             |
@@ -69,7 +69,7 @@ This list follows a teleological and epistemic sequence. Each level presupposes 
 
 | Level   | Name                  | Description                                        | Core Assumption (Upstream Prior)                                           |
 |---------|-----------------------|----------------------------------------------------|-----------------------------------------------------------------------------|
-| 🜂 1    | **Unconditioned Source**  | The ground of all intelligibility and meaning.        | All knowing presupposes a given origin that is not derived.                 |
+| 🜂 1    | **Unconditioned Source**  | The ground of all intelligibility, telos and meaning.        | All knowing presupposes a given origin that is not derived.                 |
 | 🜁 2    | **Intrinsic Patterning**  | Reality is structured with discoverable order.        | Meaning is embedded in things, not projected onto them.                     |
 | 🜃 3    | **Participatory Knowing** | Understanding arises through engaged relationship.    | Knowledge involves presence and transformation.                             |
 | 🜄 4    | **Right Discernment**     | Reason must align with upstream orientation.          | Logic is governed by purpose and moral proportion.                          |
