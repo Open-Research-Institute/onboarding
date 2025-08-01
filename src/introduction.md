@@ -70,7 +70,7 @@ This list follows a teleological and epistemic sequence. Each level presupposes 
 | Level   | Name                  | Description                                        | Core Assumption (Upstream Prior)                                           |
 |---------|-----------------------|----------------------------------------------------|-----------------------------------------------------------------------------|
 | 🜂 1    | **Unconditioned Source**  | The ground of all intelligibility, telos and meaning.        | All knowing presupposes a given origin that is not derived.                 |
-| 🜁 2    | **Intrinsic Patterning**  | Reality is structured with discoverable order.        | Meaning is embedded in things, not projected onto them.                     |
+| 🜁 2    | **Intrinsic Patterning**  | Reality is structured with discoverable order and purpose.        | Meaning is embedded and embodied in things, not projected onto them.                     |
 | 🜃 3    | **Participatory Knowing** | Understanding arises through engaged relationship.    | Knowledge involves presence and transformation.                             |
 | 🜄 4    | **Right Discernment**     | Reason must align with upstream orientation.          | Logic is governed by purpose and moral proportion.                          |
 | 🧠 5    | **Mental Formation**      | Perception is filtered through inner habits.          | What we notice depends on how we have been shaped.                          |
