@@ -1,10 +1,10 @@
-# Is Reality Structured or Chaotic?
+# How Does Thinking Go Wrong?
 
 ## Purpose / Key Focus
-Explore whether the world has inherent order and purpose—or if meaning is constructed
+Diagnose common breakdowns: epistemic drift, misordered priorities, loss of grounding
 
 ## Corresponds to Stage
-Intrinsic Patterning
+Integration (cross-level)
 
 ---
 ## How It Is Ordered
@@ -29,6 +29,7 @@ This list follows a teleological and epistemic sequence. Each level presupposes 
 ---
 
 ## Related Topics
-- [1-What Must Be Presupposed?](What_Must_Be_Presupposed.md) - The presuppositions that assume order and structure
-- [3-How Do We Come to Know?](How_Do_We_Come_to_Know.md) - How we participate in discovering this structure
-- [6-Where Does Science Fit?](Where_Does_Science_Fit.md) - How empirical methods reveal this patterning 
+- [4-What is Reason For?](What_is_Reason_For.md) - How reasoning can go wrong
+- [7-Can Knowledge Be Trusted Without Action?](Can_Knowledge_Be_Trusted_Without_Action.md) - How inaction leads to breakdowns
+- [8-What Shapes the Thinker?](What_Shapes_the_Thinker.md) - How inherited frameworks can limit thinking
+- [10-How Do We Return to First Principles?](How_Do_We_Return_to_First_Principles.md) - How to recover from breakdowns 

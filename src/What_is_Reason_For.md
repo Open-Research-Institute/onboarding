@@ -1,10 +1,10 @@
-# Is Reality Structured or Chaotic?
+# What is Reason For?
 
 ## Purpose / Key Focus
-Explore whether the world has inherent order and purpose—or if meaning is constructed
+Frame reason not as self-justifying but as dependent on alignment with upstream purpose
 
 ## Corresponds to Stage
-Intrinsic Patterning
+Right Discernment
 
 ---
 ## How It Is Ordered
@@ -29,6 +29,6 @@ This list follows a teleological and epistemic sequence. Each level presupposes 
 ---
 
 ## Related Topics
-- [1-What Must Be Presupposed?](What_Must_Be_Presupposed.md) - The presuppositions that assume order and structure
-- [3-How Do We Come to Know?](How_Do_We_Come_to_Know.md) - How we participate in discovering this structure
-- [6-Where Does Science Fit?](Where_Does_Science_Fit.md) - How empirical methods reveal this patterning 
+- [3-How Do We Come to Know?](How_Do_We_Come_to_Know.md) - How reason serves participatory knowing
+- [5-Why Perception is Never Neutral](Why_Perception_is_Never_Neutral.md) - How reason is shaped by mental formation
+- [9-How Does Thinking Go Wrong?](How_Does_Thinking_Go_Wrong.md) - Common breakdowns in reasoning 

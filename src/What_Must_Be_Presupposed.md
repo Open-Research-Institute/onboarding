@@ -1,10 +1,10 @@
-# Is Reality Structured or Chaotic?
+# What Must Be Presupposed?
 
 ## Purpose / Key Focus
-Explore whether the world has inherent order and purpose—or if meaning is constructed
+Introduce the idea that all knowing rests on unprovable, starting points defined by teleological unity (e.g. intelligibility, unity, being)
 
 ## Corresponds to Stage
-Intrinsic Patterning
+Unconditioned Source of Purpose
 
 ---
 ## How It Is Ordered
@@ -29,6 +29,7 @@ This list follows a teleological and epistemic sequence. Each level presupposes 
 ---
 
 ## Related Topics
-- [1-What Must Be Presupposed?](What_Must_Be_Presupposed.md) - The presuppositions that assume order and structure
-- [3-How Do We Come to Know?](How_Do_We_Come_to_Know.md) - How we participate in discovering this structure
-- [6-Where Does Science Fit?](Where_Does_Science_Fit.md) - How empirical methods reveal this patterning 
+- [2-Is Reality Structured or Chaotic?](Is_Reality_Structured_or_Chaotic.md) - Explores the order and structure that presuppositions assume
+- [10-How Do We Return to First Principles?](How_Do_We_Return_to_First_Principles.md) - Teaches how to trace back to these presuppositions 
+
+Is_Reality_Structured_or_Chaotic.md

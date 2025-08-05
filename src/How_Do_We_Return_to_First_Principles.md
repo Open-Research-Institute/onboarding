@@ -1,10 +1,10 @@
-# Is Reality Structured or Chaotic?
+# How Do We Return to First Principles?
 
 ## Purpose / Key Focus
-Explore whether the world has inherent order and purpose—or if meaning is constructed
+Teach how to trace ideas upstream when confusion arises; introduce reflective techniques
 
 ## Corresponds to Stage
-Intrinsic Patterning
+Integration (cross-level)
 
 ---
 ## How It Is Ordered
@@ -29,6 +29,6 @@ This list follows a teleological and epistemic sequence. Each level presupposes 
 ---
 
 ## Related Topics
-- [1-What Must Be Presupposed?](What_Must_Be_Presupposed.md) - The presuppositions that assume order and structure
-- [3-How Do We Come to Know?](How_Do_We_Come_to_Know.md) - How we participate in discovering this structure
-- [6-Where Does Science Fit?](Where_Does_Science_Fit.md) - How empirical methods reveal this patterning 
+- [1-What Must Be Presupposed?](What_Must_Be_Presupposed.md) - The first principles we return to
+- [8-What Shapes the Thinker?](What_Shapes_the_Thinker.md) - How to transcend inherited limitations
+- [9-How Does Thinking Go Wrong?](How_Does_Thinking_Go_Wrong.md) - How to recover from breakdowns
