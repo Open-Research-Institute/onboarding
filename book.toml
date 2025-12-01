@@ -3,7 +3,7 @@ authors = ["Defender", "pixiiidust"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Onboarding"
+title = "ORI Onboarding"
 
 [output.html]
 edit-url-template = "https://github.com/Open-Research-Institute/onboarding/edit/main/{path}"
