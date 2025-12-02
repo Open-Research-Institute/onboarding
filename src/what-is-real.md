@@ -5,4 +5,5 @@ Everyone in ORI has a way to discern truth for themselves. "Subjective epistemol
 - If it has predictive power, then it is real (or has SOMETHING in it that is real)
   - This is how you know you got an "A" (from [A/B/U](A_B_U.md)). You should be able to say _"this is an A for me, I can tell because I can now predict something I could not predict before you gave me this piece of information"_
 - We all exist in the same reality 
-- The ultimate truth is invariant under all perspectives 
+- The ultimate truth is invariant under all perspectives
+- Some things are "more real" than others. The imagination of a single person is real. Physical objects in the room are more rool. Mathematical truths are "more real" in that they're more permanent/invariant. 
